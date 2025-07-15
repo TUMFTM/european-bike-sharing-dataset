@@ -1,6 +1,6 @@
-# Supplementary Bike‑Sharing Data Repository
+# “Data-Driven Insights into (E-)Bike-Sharing: Mining a Large-Scale Dataset on Usage and Urban Characteristics - Descriptive Analysis and Performance Modeling” (supplementary dataset)
 
-> **Scope** – This repository accompanies the paper **“Data-Driven Insights into (E-)Bike-Sharing: Mining a Large-Scale Dataset on Usage and Urban Characteristics - Descriptive Analysis and Performance Modeling”** (accepted for publication, 2025) and provides the full relational data export (43 Mio km, 2.3 GiB compressed) required to reproduce all analyses, together with 1 000‑row excerpts for quick exploration.
+> **Scope** – This repository accompanies the article (accepted for publication in Springer Transportation, 2025) and provides the full relational data export (43 Mio km, 2.3 GiB compressed) required to reproduce all analyses, together with 1 000‑row excerpts for quick exploration.
 
 ## Authors
 
@@ -179,7 +179,7 @@ city_areas = city_areas.set_geometry(gpd.GeoSeries.from_wkb(city_areas.geom_ewkb
 
 ## License
 
-The dataset is distributed under the **Creative Commons Attribution - NonCommercial 4.0 International  (CC BY-NC 4.0)** license.  When using or adapting the data, please cite the paper *and* link back to this repository.
+The dataset is distributed under the **Creative Commons Attribution - NonCommercial 4.0 International  (CC BY-NC 4.0)** license.  When using or adapting the data, please cite the paper which links back to this repository.
 
 ```
 @article{waldnerbalke2025,

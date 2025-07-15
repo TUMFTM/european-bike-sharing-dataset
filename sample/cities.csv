@@ -1,0 +1,268 @@
+"id","name","lat","lon","timezone","country","return_to_official_only"
+220,Zagreb,45.7984,15.9881,Europe/Berlin,HR,true
+431,Kalisz,51.7525,18.0341,Europe/Warsaw,PL,true
+199,Innsbruck,47.2632,11.3961,Europe/Berlin,AT,true
+519,Siemianowice Śląskie,50.3031,19.0222,Europe/Warsaw,PL,true
+21,Karlsruhe,49.0102,8.41827,Europe/Berlin,DE,false
+621,Baden-Baden,48.7365,8.30482,Europe/Berlin,DE,false
+627,Bruchsal,49.126,8.5968,Europe/Berlin,DE,false
+633,Rheinstetten,48.962,8.29575,Europe/Berlin,DE,false
+634,Ettlingen,48.9429,8.39784,Europe/Berlin,DE,false
+176,Usedom,53.9779,13.9925,Europe/Berlin,DE,true
+775,MV-Rad,53.6707,12.4255,Europe/Berlin,DE,true
+759,Greifswald (StadtRad),54.0961,13.3787,Europe/Berlin,DE,true
+192,Poznań,52.4175,16.9368,Europe/Warsaw,PL,false
+210,Warszawa,52.2354,20.9969,Europe/Warsaw,PL,true
+372,Stacje Sponsorskie Nextbike Veturilo,52.2299,20.9942,Europe/Warsaw,PL,true
+521,Płock,52.5445,19.7017,Europe/Warsaw,PL,true
+639,Orlen Płock,52.5466,19.7047,Europe/Warsaw,PL,true
+620,Luboń,52.3461,16.8765,Europe/Warsaw,PL,true
+630,Komorniki,52.3347,16.8094,Europe/Warsaw,PL,true
+713,Plön,54.1619,10.4263,Europe/Berlin,DE,true
+302,Malta,35.9192,14.4889,Europe/Berlin,MT,true
+613,KielRegion,54.3133,10.1212,Europe/Berlin,DE,false
+710,Rendsburg,54.3041,9.66557,Europe/Berlin,DE,true
+711,Eckernförde,54.4686,9.83704,Europe/Berlin,DE,true
+712,Preetz,54.2328,10.2798,Europe/Berlin,DE,true
+281,Würzburg,49.8,9.93333,Europe/Berlin,DE,true
+635,Rastatt,48.86,8.20386,Europe/Berlin,DE,false
+722,Gaggenau,48.8039,8.3233,Europe/Berlin,DE,false
+245,Białystok,53.1262,23.1427,Europe/Warsaw,PL,false
+238,Belfast,54.6129,-5.89269,Europe/London,GB,true
+248,Šibenik,43.7294,15.9074,Europe/Berlin,HR,true
+255,Grodzisk Mazowiecki,52.113,20.6265,Europe/Warsaw,PL,true
+194,Heidelberg,49.4023,8.67577,Europe/Berlin,DE,true
+64,Mödling,48.1047,16.3202,Europe/Berlin,AT,true
+195,Mannheim,49.4869,8.45638,Europe/Berlin,DE,true
+251,Lublin,51.2469,22.5697,Europe/Warsaw,PL,true
+331,Świdnik,51.2194,22.6988,Europe/Warsaw,PL,true
+266,Ludwigshafen,49.4741,8.43287,Europe/Berlin,DE,true
+332,Bensheim,49.6803,8.6189,Europe/Berlin,DE,true
+382,Worms,49.6394,8.34618,Europe/Berlin,DE,true
+392,Bürstadt,49.6461,8.44917,Europe/Berlin,DE,true
+398,Kaiserslautern,49.4413,7.75566,Europe/Berlin,DE,true
+448,Heppenheim,49.6431,8.63889,Europe/Berlin,DE,true
+469,Weinheim,49.545,8.66027,Europe/Berlin,DE,true
+477,Hockenheim,49.3227,8.54258,Europe/Berlin,DE,true
+480,Schwetzingen,49.3863,8.5756,Europe/Berlin,DE,true
+482,Frankenthal (Pfalz),49.5392,8.35164,Europe/Berlin,DE,true
+537,Ladenburg,49.4849,8.61491,Europe/Berlin,DE,true
+558,Heddesheim,49.5062,8.60446,Europe/Berlin,DE,true
+559,Lampertheim,49.5971,8.46857,Europe/Berlin,DE,true
+560,Dossenheim,49.4489,8.67158,Europe/Berlin,DE,true
+678,Landau in der Pfalz,49.1975,8.11693,Europe/Berlin,DE,true
+684,Neustadt an der Weinstraße,49.3448,8.14902,Europe/Berlin,DE,true
+747,Limburgerhof,49.4205,8.3922,Europe/Berlin,DE,true
+391,Horw,47.0188,8.30828,Europe/Brussels,CH,true
+549,Prostejov,49.4722,17.1055,Europe/Berlin,CZ,false
+14,Köln,50.9429,6.95649,Europe/Berlin,DE,false
+342,Katowice,50.2594,19.0215,Europe/Berlin,PL,true
+305,Karlovac,45.4905,15.5503,Europe/Berlin,HR,true
+308,Slavonski Brod,45.1656,18.0183,Europe/Berlin,HR,true
+798,Pula,44.8622,13.8541,Europe/Berlin,HR,true
+301,Hanau,50.1387,8.94429,Europe/Berlin,DE,true
+320,Milton Keynes,52.0406,-0.759417,Europe/London,GB,true
+324,Makarska,43.2992,17.0184,Europe/Berlin,HR,true
+745,Stari Grad ,43.1882,16.6295,Europe/Berlin,HR,true
+327,Zadar,44.1132,15.2356,Europe/Berlin,HR,true
+178,Augsburg,48.3722,10.8929,Europe/Berlin,DE,true
+354,Exeter,50.7272,-3.53605,Europe/London,GB,true
+142,Wachau,48.3188,15.4166,Europe/Berlin,AT,true
+130,Bochum,51.4813,7.2133,Europe/Berlin,DE,true
+206,Nicosia,35.1991,33.4535,Asia/Istanbul,CY,false
+362,Berlin,52.5087,13.3563,Europe/Berlin,DE,false
+396,Klagenfurt,46.6335,14.3085,Europe/Berlin,AT,false
+411,Pszczyna,49.9757,18.9463,Europe/Warsaw,PL,true
+413,Tychy,50.1124,18.9972,Europe/Warsaw,PL,true
+23,Neusiedler See,47.839,16.761,Europe/Berlin,AT,true
+450,Częstochowa,50.812,19.1375,Europe/Warsaw,PL,true
+442,Pruszków,52.1622,20.8062,Europe/Warsaw,PL,true
+421,Kędzierzyn-Koźle,50.3392,18.2352,Europe/Warsaw,PL,true
+415,Velika Gorica,45.7161,16.0683,Europe/Berlin,HR,true
+422,Kołobrzeg,54.1764,15.5759,Europe/Warsaw,PL,true
+723,Zaprešić,45.8622,15.8049,Europe/Berlin,HR,true
+429,Poreč,45.2292,13.6035,Europe/Berlin,HR,true
+739,Vinkovci,45.289,18.8057,Europe/Berlin,HR,true
+237,Glasgow,55.8589,-4.25549,Europe/London,GB,true
+446,Szamotuły,52.6112,16.5819,Europe/Warsaw,PL,true
+452,Ostrów Wielkopolski,51.65,17.8253,Europe/Warsaw,PL,true
+8,Frankfurt,50.1219,8.6689,Europe/Berlin,DE,true
+461,Piaseczno,52.0733,21.0269,Europe/Warsaw,PL,true
+408,Las Palmas de Gran Canaria,28.1236,-15.4366,Atlantic/Canary,ES,true
+462,Kassel,51.3169,9.49219,Europe/Berlin,DE,true
+716,Nottwil,47.1357,8.1357,Europe/Brussels,CH,true
+135,Hamm,51.6775,7.84836,Europe/Berlin,DE,true
+50,Düsseldorf,51.2243,6.77204,Europe/Berlin,DE,false
+476,Cardiff,51.481,-3.18003,Europe/London,GB,true
+679,Penarth,51.4365,-3.19113,Europe/London,GB,true
+487,Brunel University,51.5463,-0.48048,Europe/London,GB,true
+486,Swansea University,51.606,-3.9243,Europe/London,GB,true
+467,Gießen,50.5943,8.68097,Europe/Berlin,DE,false
+496,Koszalin,54.2026,16.1678,Europe/Warsaw,PL,false
+505,Lahr,48.3396,7.87376,Europe/Berlin,DE,false
+497,Sosnowiec,50.278,19.1345,Europe/Warsaw,PL,true
+1,Leipzig,51.3435,12.3637,Europe/Berlin,DE,true
+504,Pobiedziska,52.4765,17.2866,Europe/Warsaw,PL,true
+379,Bremen,53.0781,8.80132,Europe/Berlin,DE,true
+518,Piotrków Trybunalski,51.3975,19.6779,Europe/Warsaw,PL,true
+527,Otwock,52.1034,21.2692,Europe/Warsaw,PL,true
+523,Ciechanów,52.8763,20.6102,Europe/Warsaw,PL,true
+545,Konin,52.2284,18.2553,Europe/Warsaw,PL,true
+529,Zielona Góra,51.9381,15.5048,Europe/Warsaw,PL,true
+548,Tarnów,50.0113,20.9728,Europe/Warsaw,PL,true
+531,Celje,46.237,15.2689,Europe/Berlin,SI,true
+535,Laško,46.1458,15.2312,Europe/Berlin,SI,true
+555,Žalec,46.2529,15.1635,Europe/Berlin,SI,true
+643,Zreče,46.3751,15.387,Europe/Berlin,SI,true
+644,Slovenske Konjice,46.3382,15.4244,Europe/Berlin,SI,true
+683,Šentjur,46.2146,15.394,Europe/Berlin,SI,true
+530,Mönchengladbach,51.1817,6.43578,Europe/Berlin,DE,true
+547,Bonn,50.7367,7.09541,Europe/Berlin,DE,true
+532,Bilbao,43.2623,-2.93747,Europe/Berlin,ES,true
+536,Lippstadt,51.6755,8.34394,Europe/Berlin,DE,true
+538,Žilina,49.2205,18.7413,Europe/Bratislava,SK,true
+557,Chorzów,50.296,18.9547,Europe/Warsaw,PL,true
+551,Żyrardów,52.0503,20.4464,Europe/Warsaw,PL,true
+562,Koluszki (RL),51.7401,19.835,Europe/Warsaw,PL,true
+563,Łask (RL),51.5893,19.142,Europe/Warsaw,PL,true
+564,Łowicz (RL),52.1057,19.9381,Europe/Warsaw,PL,true
+565,Pabianice (RL),51.6651,19.3548,Europe/Warsaw,PL,true
+566,Sieradz (RL),51.5902,18.7382,Europe/Warsaw,PL,true
+567,Skierniewice (RL),51.9539,20.1469,Europe/Warsaw,PL,true
+568,Zduńska Wola (RL),51.6011,18.938,Europe/Warsaw,PL,true
+569,Zgierz (RL),51.8551,19.4068,Europe/Warsaw,PL,true
+570,Kutno (RL),52.2317,19.3564,Europe/Warsaw,PL,true
+571,Łódź (RL),51.7674,19.4575,Europe/Warsaw,PL,false
+592,Walldorf,49.2945,8.62324,Europe/Berlin,DE,true
+717,Ljubljana,46.0577,14.5013,Europe/Berlin,SI,true
+648,RVK e-Bike,50.7069,6.87607,Europe/Berlin,DE,false
+619,Freiburg,47.9958,7.84453,Europe/Berlin,DE,true
+607,Leverkusen,51.0732,7.00814,Europe/Berlin,DE,true
+638,Lovesharing (Canary Islands) - Gran Canaria,27.8154,-15.5182,Atlantic/Canary,ES,true
+675,Lovesharing (Canary Islands) - Fuerteventura,28.3584,-14.064,Atlantic/Canary,ES,true
+626,Nürnberg,49.4487,11.0794,Europe/Berlin,DE,false
+445,Općina Dugopolje,43.5872,16.5879,Europe/Berlin,HR,true
+617,Split ,43.5162,16.4637,Europe/Berlin,HR,true
+740,Solin,43.5441,16.4833,Europe/Berlin,HR,true
+741,Općina Klis,43.5605,16.5269,Europe/Berlin,HR,true
+802,Trogir,43.5234,16.2476,Europe/Berlin,HR,true
+271,Ostrava,49.8344,18.2823,Europe/Berlin,CZ,false
+752,Hlučín,49.898,18.1923,Europe/Berlin,CZ,true
+629,Ibiza-City,38.9066,1.42046,Europe/Berlin,ES,true
+87,Hannover,52.3721,9.73569,Europe/Berlin,DE,true
+637,Havířov,49.7799,18.4328,Europe/Berlin,CZ,false
+655,Berounsko,49.9616,14.064,Europe/Berlin,CZ,false
+647,Graben,48.18884,10.82127,Europe/Rome,DE,false
+658,Göteborg,57.6902,11.9881,Europe/Berlin,SE,false
+136,Herne,51.5363,7.21493,Europe/Berlin,DE,true
+177,Norderstedt,53.6951,9.97627,Europe/Berlin,DE,true
+657,Braunschweig,52.2597,10.5307,Europe/Berlin,DE,false
+158,Potsdam,52.3997,13.0676,Europe/Berlin,DE,true
+660,Brno,49.1911,16.6148,Europe/Berlin,CZ,false
+767,Kuřim,49.2994,16.5368,Europe/Berlin,CZ,false
+661,Praha,50.0592,14.5761,Europe/Berlin,CZ,false
+736,Říčany,49.9976,14.6685,Europe/Berlin,CZ,false
+663,Olomouc,49.5929,17.2459,Europe/Berlin,CZ,false
+659,Kladno,50.1435,14.1082,Europe/Berlin,CZ,false
+662,Opava,49.9289,18.2634,Europe/Berlin,CZ,false
+16,Bielefeld,52.0257,8.53286,Europe/Berlin,DE,true
+676,Bergisches e-Bike,51.0192,7.18025,Europe/Berlin,DE,true
+680,Pardubice,50.0343,15.7812,Europe/Berlin,CZ,false
+682,Hradec Králové,50.2079,15.8334,Europe/Berlin,CZ,false
+438,Marburg,50.8019,8.76444,Europe/Berlin,DE,true
+160,Gütersloh,51.9383,8.33176,Europe/Berlin,DE,true
+7,Wiesbaden,50.0739,8.24181,Europe/Berlin,DE,false
+155,Offenburg,48.4721,7.94243,Europe/Berlin,DE,true
+439,Rüsselsheim am Main,49.9881,8.42142,Europe/Berlin,DE,true
+681,Mladá Boleslav,50.4278,14.8999,Europe/Berlin,CZ,false
+704,Mnichovo Hradiště,50.5218,14.9741,Europe/Berlin,CZ,false
+685,Dresden,51.0505,13.7446,Europe/Berlin,DE,false
+689,Bad Oeynhausen,52.2051,8.80074,Europe/Berlin,DE,true
+691,RSVG,50.7669,7.37457,Europe/Berlin,DE,false
+692,Linz,48.3003,14.2843,Europe/Berlin,AT,false
+463,Sarnen,46.8963,8.24614,Europe/Brussels,CH,true
+688,Nova Gorica,45.9576,13.6406,Europe/Berlin,SI,true
+700,Frýdek-Místek,49.6832,18.3457,Europe/Berlin,CZ,false
+701,León,42.5672,-5.64972,Europe/Berlin,ES,false
+702,Uherské Hradiště,49.0678,17.4665,Europe/Berlin,CZ,false
+703,Zlín,49.238,17.6788,Europe/Berlin,CZ,false
+707,Krnov,50.0903,17.704025,Europe/Berlin,CZ,false
+706,Eifel e-Bike,50.5771,6.64673,Europe/Berlin,DE,true
+708,Rychnovsko,50.1668,16.2828,Europe/Berlin,CZ,true
+709,Písek,49.3051,14.1463,Europe/Berlin,CZ,true
+719,Jihlava,49.4078,15.6061,Europe/Berlin,CZ,false
+725,Zagorje ob Savi,46.1392,14.9785,Europe/Berlin,SI,true
+727,Sokołów Podlaski,52.4082,22.2525,Europe/Warsaw,PL,true
+728,Bergamo,45.6986,9.67567,Europe/Berlin,IT,true
+734,Osijek,45.554,18.6943,Europe/Berlin,HR,true
+748,Wien,48.2089,16.3787,Europe/Berlin,AT,true
+754,Oldenburg,53.1448,8.22485,Europe/Berlin,DE,true
+768,Dvůr Králové,50.4278,15.8162,Europe/Berlin,CZ,true
+773,Kufstein,47.583,12.1692,Europe/Berlin,AT,true
+774,Ellmau,47.5134,12.3025,Europe/Berlin,AT,true
+796,Łomża,53.1649,22.0729,Europe/Warsaw,PL,true
+780,Kranjska Gora,46.4846,13.7836,Europe/Berlin,SI,true
+817,Mobic,50.8493,6.6687,Europe/Berlin,DE,true
+812,Warszawa - 2023,52.2354,20.9853,Europe/Warsaw,PL,false
+148,Wrocław,51.136,17.0891,Europe/Warsaw,PL,false
+129,Dortmund,51.5141,7.46255,Europe/Berlin,DE,true
+131,Bottrop,51.5263,6.94611,Europe/Berlin,DE,false
+132,Duisburg,51.4487,6.77513,Europe/Berlin,DE,true
+133,Essen,51.4387,7.14094,Europe/Berlin,DE,true
+134,Gelsenkirchen,51.5404,7.07039,Europe/Berlin,DE,true
+137,Mülheim a.d.R.,51.4308,6.87401,Europe/Berlin,DE,true
+138,Oberhausen,51.4936,6.85169,Europe/Berlin,DE,true
+190,Limassol,34.6823,33.0464,Asia/Istanbul,CY,true
+842,Cornellà de Llobregat,41.3585,2.07081,Europe/Berlin,ES,true
+835,Mislata,39.4713,-0.412331,Europe/Berlin,ES,true
+858,Tecklenburg,52.2189,7.8124,Europe/Berlin,DE,true
+144,Leobersdorf,47.9421,16.1149,Europe/Berlin,AT,false
+146,Thermenregion,47.9892,16.2646,Europe/Berlin,AT,false
+149,Römerland,48.0909,16.853,Europe/Berlin,AT,false
+156,WienerNeustadt,47.8167,16.2426,Europe/Berlin,AT,false
+165,Herzogenburg,48.1111,15.8176,Europe/Berlin,AT,true
+170,Marchfeld,48.2407,16.9093,Europe/Berlin,AT,false
+464,Wolfenschiessen,46.9079,8.39767,Europe/Brussels,CH,true
+465,Oberdorf,46.9563,8.38867,Europe/Brussels,CH,true
+492,Hochdorf / Seetal,47.1667,8.29159,Europe/Brussels,CH,false
+624,Ebikon,47.0812,8.33973,Europe/Brussels,CH,true
+632,Root,47.1149,8.39008,Europe/Brussels,CH,false
+243,Stirling,56.1195,-3.93495,Europe/London,GB,true
+174,Zehn vor Wien,48.3403,16.279,Europe/Berlin,AT,false
+184,Laa an der Thaya,48.7196,16.3878,Europe/Berlin,AT,false
+185,Südheide,48.1077,16.3937,Europe/Berlin,AT,false
+212,Hollabrunn,48.562,16.0785,Europe/Berlin,AT,false
+213,WienerWald,48.1926,16.141,Europe/Berlin,AT,false
+395,Groß Enzersdorf,48.1986,16.5496,Europe/Berlin,AT,true
+414,Amstetten,48.1218,14.8774,Europe/Berlin,AT,false
+88,Sursee Plus,47.1713,8.10877,Europe/Brussels,CH,true
+126,Luzern,47.0472,8.30446,Europe/Brussels,CH,true
+323,Hergiswil,46.9905,8.30829,Europe/Brussels,CH,true
+383,Stans,46.9593,8.36836,Europe/Brussels,CH,true
+388,Stansstad,46.9801,8.34098,Europe/Brussels,CH,true
+729,Stacje Sponsorskie Nextbike LRM,51.2469,22.5697,Europe/Warsaw,PL,true
+394,Stacje Sponsorskie Nextbike PRM,52.4077,16.9323,Europe/Warsaw,PL,true
+128,Rīga,56.9453,24.1033,Europe/Riga,LV,true
+278,Speyer,49.3126,8.45295,Europe/Berlin,DE,true
+550,Marki,52.3256,21.1089,Europe/Warsaw,PL,true
+804,Kaštela,43.568,16.3847,Europe/Berlin,HR,true
+749,Getxo,43.3135,-3.01182,Europe/Berlin,ES,true
+776,Chełm,51.1318,23.4755,Europe/Warsaw,PL,true
+789,Palma de Mallorca,39.5602,2.67517,Europe/Brussels,ES,true
+769,Vrchlabí,50.6222,15.6126,Europe/Berlin,CZ,true
+794,Winsen (Luhe),53.3547,10.2067,Europe/Berlin,DE,true
+807,Erkelenz,51.0753,6.31233,Europe/Berlin,DE,true
+808,Geilenkirchen,50.9671,6.11886,Europe/Berlin,DE,true
+809,Heinsberg,51.0597,6.11849,Europe/Berlin,DE,true
+810,Hückelhoven,51.0529,6.21933,Europe/Berlin,DE,true
+811,Wegberg,51.1427,6.2813,Europe/Berlin,DE,true
+819,Grünheide (Mark),52.4247,13.8203,Europe/Berlin,DE,false
+833,Barcelona,41.4095,2.17177,Europe/Berlin,ES,true
+844,El Prat de Llobregat,41.3239,2.09317,Europe/Berlin,ES,true
+848,Esplugues de Llobregat,41.3771,2.08938,Europe/Berlin,ES,true
+851,Sant Joan Despí,41.368,2.05635,Europe/Berlin,ES,true
+853,Sant Just Desvern,41.3807,2.07496,Europe/Berlin,ES,true
+856,Sant Boi de Llobregat,41.3458,2.03404,Europe/Berlin,ES,true
+831,Wolsztyn,52.112,16.1056,Europe/Warsaw,PL,true
+143,Tulln,48.3269,16.0569,Europe/Berlin,AT,false
+57,St.Pölten,48.2058,15.6232,Europe/Berlin,AT,true

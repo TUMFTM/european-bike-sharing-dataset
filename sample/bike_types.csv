@@ -1,0 +1,360 @@
+"id","vehicle_image","name","description","form_factor","rider_capacity","propulsion_type","max_range","battery_capacity"
+152,,,,,,,,
+31,,,,,,,,
+35,,,,,,,,
+34,,,,,,,,
+37,,,,,,,,
+176,,,,,,,,
+214,,,,,,,,
+92,,,,,,,,
+225,,,,,,,,
+53,,,,,,,,
+159,,,,,,,,
+171,,,,,,,,
+81,,,,,,,,
+79,,,,,,,,
+60,,,,,,,,
+72,,,,,,,,
+149,,,,,,,,
+151,,,,,,,,
+115,,,,,,,,
+17,,,,,,,,
+219,,,,,,,,
+218,,,,,,,,
+205,,,,,,,,
+128,,,,,,,,
+174,https://static.nextbike.net/app/biketypes/type/gp/174/h500.png,Comfort,"",bicycle,1,human,,
+133,,,,,,,,
+132,,,,,,,,
+59,,,,,,,,
+237,,,,,,,,
+236,,,,,,,,
+243,,,,,,,,
+111,https://static.nextbike.net/app/biketypes/type/gp/111/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+9,https://static.nextbike.net/app/biketypes/type/lv/9/h500.png,Tandem,"- MountainBike Rahmen ALU
+- Shimano 27-Gang-Schaltung
+- RST-Federgabel
+- Gepäckträger ",bicycle,2,human,,
+170,https://static.nextbike.net/app/biketypes/type/ps/170/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+119,https://static.nextbike.net/app/biketypes/type/cn/119/h500.png,Elektricno kolo,"",bicycle,1,electric_assist,60000.0,"500"
+26,https://static.nextbike.net/app/biketypes/type/lv/26/h500.png,Tandem,"",bicycle,2,human,,
+25,https://static.nextbike.net/app/biketypes/type/hr/25/h500.png,Tandem,"",bicycle,2,human,,
+179,https://static.nextbike.net/app/biketypes/type/vn/179/h500.png,e-CARGObike," - PEDALPOWER ""eHarry"" pl0072 Cargo
+ - BROSE middle motor
+ - Gearschift NUVINCI Enviolo N380
+ - hydraulic anti-lock disc brakes PP Cargo / Beg
+ - hub dynamo front wheel
+ - Light Hermanns 75 LUX Steady front and back
+ - fender front and back
+ - System box ""nextbike"" pl0052 60x80x50 cm
+ - Cover for PIRUU pl0065
+ - RFID Reader
+ - Framelock",cargo_bicycle,1,electric_assist,,
+193,https://static.nextbike.net/app/biketypes/type/pt/193/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+101,https://static.nextbike.net/app/biketypes/type/pd/101/h500.png,Tandem,"",bicycle,2,human,,
+102,https://static.nextbike.net/app/biketypes/type/pd/102/h500.png,Rowerek dziecięcy 6+,"",bicycle,1,human,,
+147,https://static.nextbike.net/app/biketypes/type/pd/147/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+27,https://static.nextbike.net/app/biketypes/type/bp/27/h500.png,Tandem,"",bicycle,2,human,,
+38,https://static.nextbike.net/app/biketypes/type/bp/38/h500.png,Rowerek dziecięcy 6+,"",bicycle,1,human,,
+158,https://static.nextbike.net/app/biketypes/type/bp/158/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+89,https://static.nextbike.net/app/biketypes/type/kr/89/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+208,https://static.nextbike.net/app/biketypes/type/tq/208/h500.png,"3-rychlostní SMARTbike 2.0.","3-rychlostní kola s podporou partnera",bicycle,1,human,,
+116,https://static.nextbike.net/app/biketypes/type/tn/116/h500.png,Rowerek dziecięcy 6+,"",bicycle,1,human,,
+182,https://static.nextbike.net/app/biketypes/type/uc/182/h500.png,e-SMARTbike 2.0 with RFID," - e-eco B frame with Framelock
+ - e-CFC coded fork with charging contact and RFID chip
+ - aluminum basket B with ad panel
+ - 3 gears freewheel with Rollerbrake back and front
+ - RFID Reader 1.6
+ - security kit: front light cover
+- tag explaining return bikes to electric stations
+
+UK brakes: left= back right= front",bicycle,1,electric_assist,60000.0,"500"
+2,https://static.nextbike.net/app/biketypes/type/ur/2/h500.png,"28 Zoll - Tourenfahrrad","- ALU Deep Wave City Bike mit Shimano Nexus   8-Gang/ Shimano ND
+- Rahmen mit Standard Steuerkopf, schwarz
+- Rücktrittbremse
+- Gepäckträger
+- Federgabel ",bicycle,1,human,,
+209,https://static.nextbike.net/app/biketypes/type/tq/209/h500.png,e-SMARTbike 2.0.,e-kola Mladá Boleslav,bicycle,1,electric_assist,60000.0,"500"
+185,https://static.nextbike.net/app/biketypes/type/uk/185/h500.png,Smartbike 2.0 (B) 2019,"10558ASF.LSF0U7YO1-9006
+SMARTbike 2.0 8 gears - with labeling - RAL 9006
+""white aluminum""
+- ""eco B"" frame with FRAMElock
+- ""ASF"" fork with ""DLS"" contact
+- aluminum solar basket B with ad panels
+- RFID reader 1.6 DLS
+- 8 gears freewheel, rollerbrake back and front
+- safetynuts fur wheel hubs
+- front and back light steady
+- front light cover and handlebar cover
+- back cover with safetyscrews",bicycle,1,human,,
+19,https://static.nextbike.net/app/biketypes/type/el/19/h500.png,e-SMARTbike 1.0," - e-Comfort frame incl. FVM
+ - e-CFC cartridge fork incl. CSI module and charging pin
+ - alloy basket incl. ad panel
+ - Rollerbrake front / back",bicycle,1,electric_assist,60000.0,"500"
+3,https://static.nextbike.net/app/biketypes/type/ug/3/h500.png,UsedomRad,"- Modell „Comfort F“ der Firma ""Nextbike""
+- Shimano 3-Gang oder 7-Gang-Nabenschaltung
+- Shimano Nabendynamo
+- sehr guter Fahrkomfort, trotz Vandalismussicherung
+- Korbausstattung",bicycle,1,human,,
+13,https://static.nextbike.net/app/biketypes/type/ug/13/h500.png,UsedomRad Classic,"- Modell „Classic“ der Firma ""Nextbike""
+- Shimano 3-Gang oder 7-Gang-Nabenschaltung
+- Shimano Nabendynamo
+- sehr guter Fahrkomfort, trotz Vandalismussicherung
+- Korbausstattung",bicycle,1,human,,
+124,https://static.nextbike.net/app/biketypes/type/pv/124/h500.png,Rowerek dziecięcy 6+,"",bicycle,1,human,,
+7,https://static.nextbike.net/app/biketypes/type/ur/7/h500.png,"20 Zoll - Kinderfahrrad","- ATB Modell mit Deep Wave Rahmen ALU
+- Shimano Nexus 3-Gang, Shimano ND
+- Steuersatz VP, Unicrowngabel Stahl
+- Rücktrittbremse
+- Gepäckträger",bicycle,1,human,,
+8,https://static.nextbike.net/app/biketypes/type/ur/8/h500.png,"24 Zoll - Kinderfahrrad","- ATB Modell mit Deep Wave Rahmen ALU
+- Shimano Nexus 3-Gang, Shimano ND
+- Steuersatz VP, Unicrowngabel Stahl
+- Rücktrittbremse
+- Gepäckträger",bicycle,1,human,,
+68,https://static.nextbike.net/app/biketypes/type/jp/68/h500.png,Z wałem kardana,"",bicycle,1,human,,
+144,https://static.nextbike.net/app/biketypes/type/jp/144/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+245,https://static.nextbike.net/app/biketypes/type/tg/245/h500.png,"7-rychlostní SMARTbike",Nová sedmi rychlostní kola bez podpory města,bicycle,1,human,,
+201,https://static.nextbike.net/app/biketypes/type/ib/201/h500.png,"e-Bike ""LaBigi""","e-SMARTbike 2.0 3 gears - with labeling - painted in RAL 9006
+
+ - e-eco frame with Framelock
+ - e-CFC fork with charging contact, DLS contact and RFID chip
+ - aluminum basket with ad panel
+ - 3 gears freewheel with Rollerbrake back and front
+ - RFID Reader DLS
+ - mobile phone holder
+ - saftey nuts for hubs",bicycle,1,electric_assist,60000.0,"500"
+163,https://static.nextbike.net/app/biketypes/type/tn/163/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+121,https://static.nextbike.net/app/biketypes/type/le/121/h500.png,e-CARGObike," - PEDALPOWER ""eHarry"" pl0072 Cargo
+ - BROSE middle motor
+ - Gearschift NUVINCI Enviolo N380
+ - hydraulic anti-lock disc brakes PP Cargo / Beg
+ - hub dynamo front wheel
+ - Light Hermanns 75 LUX Steady front and back
+ - fender front and back
+ - System box ""nextbike"" pl0052 60x80x50 cm
+ - Cover for PIRUU pl0065
+ - RFID Reader
+ - Framelock",cargo_bicycle,1,electric_assist,,"630"
+246,https://static.nextbike.net/app/biketypes/type/le/246/h500.png,E-Bike,"",bicycle,1,electric_assist,60000.0,
+254,https://static.nextbike.net/app/biketypes/type/tu/254/h500.png,"7-rychlostní SMARTbike 2.0.",Nová sedmirychlostní kola s podporou města,bicycle,1,human,,
+232,https://static.nextbike.net/app/biketypes/type/dg/232/h500.png,e-Cargobike,"DOLLY BIKES ""e-Dolly"" MaxDrive
+
+ - BAFANG M400 250 W 80 Nm
+ - battery 600 Wh 43 V under bench
+ - Enviolo Cargo N380
+ - RYDE Big Bull rim 20""x1,75 / 26""x1,95
+ - stainless steel spokes G13
+ - hydraulic disc brake
+ - double leg stand
+ - PE box up to 80 kg
+ - total weight 225 kg
+",cargo_bicycle,1,electric_assist,,"600"
+233,https://static.nextbike.net/app/biketypes/type/dg/233/h500.png,e-Cargobike,"DOLLY BIKES ""e-Dolly"" MaxDrive
+
+ - BAFANG M400 250 W 80 Nm
+ - battery 600 Wh 43 V under bench
+ - Enviolo Cargo N380
+ - RYDE Big Bull rim 20""x1,75 / 26""x1,95
+ - stainless steel spokes G13
+ - hydraulic disc brake
+ - double leg stand
+ - PE box up to 80 kg
+ - total weight 225 kg",cargo_bicycle,1,electric_assist,,"600"
+226,https://static.nextbike.net/app/biketypes/type/lt/226/h500.png,e-CARGObike,"- E-Dolly Family Mid-engine 2-Wheel bakfiets black Mat
+- Bafang Brushless engine 250 Watt, 80NM (Mid-engine)
+- Gearschift Enviolo Nuvinci Cargo, Freewheel
+- hydraulic anti-lock disc brakes
+- battery-operated LED lighting
+ - System box ""nextbike"" pl0052 60x80x50 cm
+ - RFID Reader
+ - Framelock",cargo_bicycle,1,electric_assist,,"600"
+227,https://static.nextbike.net/app/biketypes/type/lt/227/h500.png,CARGObike,"BAKFIETS Cargo Bike Long 7 gears - painted in black and brown
+
+ - frame painted in black, box painted in brown
+ - 2 seat bench in box
+ - 7 gears SHIMANO hub gear
+ - hub dynamo front and back light steady
+ - SCHWALBE ""Big Apple Plus"" Tires
+ - ventisit vloermat in box
+- ",cargo_bicycle,1,human,,
+210,https://static.nextbike.net/app/biketypes/type/td/210/h500.png,e-SMARTbike 2.0.,"e-kola Kladno, Zlín",bicycle,1,electric_assist,60000.0,"500"
+211,https://static.nextbike.net/app/biketypes/type/td/211/h500.png,e-SMARTbike 2.0.,e-kola s podporou partnera,bicycle,1,electric_assist,60000.0,"500"
+207,https://static.nextbike.net/app/biketypes/type/ka/207/h500.png,E-Bike,"e-SMARTbike 2.0 3 gears - with labeling - painted in RAL 9006
+
+ - e-eco frame with Framelock
+ - e-CFC fork with charging contackt and RFID chip
+ - aluminum solar basket with ad panel
+ - 3 gears freewheel with Rollerbrake back and front
+ - RFID Reader",bicycle,1,electric_assist,60000.0,"500"
+224,https://static.nextbike.net/app/biketypes/type/ka/224/h500.png,e-CARGObike," - PEDALPOWER ""eHarry"" pl0072 Cargo
+ - BROSE middle motor
+ - Gearschift NUVINCI Enviolo N380
+ - hydraulic anti-lock disc brakes PP Cargo / Beg
+ - hub dynamo front wheel
+ - Light Hermanns 75 LUX Steady front and back
+ - fender front and back
+ - System box ""nextbike"" pl0052 60x80x50 cm
+ - Cover for PIRUU pl0065
+ - RFID Reader
+ - Framelock",cargo_bicycle,1,electric_assist,,"630"
+184,https://static.nextbike.net/app/biketypes/type/tz/184/h500.png,"8-rychlostní SMARTbike 2.0.",Nová osmirychlostní kola s podporou města,bicycle,1,human,,
+228,https://static.nextbike.net/app/biketypes/type/pv/228/h500.png,with Framelock,"",bicycle,2,human,,
+197,https://static.nextbike.net/app/biketypes/type/te/197/h500.png,"8-rychlostní SMARTbike","8-speed bikes in Brno",bicycle,1,human,,
+250,https://static.nextbike.net/app/biketypes/type/te/250/h500.png,"7-rychlostní SMARTbike",Nová sedmi rychlostní kola Brno,bicycle,1,human,,
+28,https://static.nextbike.net/app/biketypes/type/rb/28/h500.png,CARGObike (3 wheels),"",cargo_bicycle,1,human,,
+189,https://static.nextbike.net/app/biketypes/type/rb/189/h500.png,+ Children's seat,"SMARTbike 2.0 7 gears - with labeling - painted in RAL 9003 ""signal white""
+
+ - eco frame with Framelock covered
+ - ASF fork with DLS contact
+ - aluminum solar basket with ad panel
+ - 7 gears freewheel with Rollerbrake back and front
+ - RFID reader DLS
+ - children's seat 
+",bicycle,2,human,,
+1,https://static.nextbike.net/app/biketypes/type/gd/1/h500.png,"26 Zoll - Tourenfahrrad","- ALU Deep Wave City Bike mit Shimano Nexus   8-Gang/ Shimano ND
+- Rahmen mit Standard Steuerkopf, schwarz
+- Rücktrittbremse
+- Gepäckträger
+- Federgabel ",bicycle,1,human,,
+86,https://static.nextbike.net/app/biketypes/type/kw/86/h500.png,Cargo,"",cargo_bicycle,1,human,,
+0,https://static.nextbike.net/app/biketypes/type/zy/0/h500.png,Unknown,Bikes with no bike type,bicycle,1,human,,
+114,https://static.nextbike.net/app/biketypes/type/pl/114/h500.png,E-CLASSICbike SWAP,"",bicycle,1,electric_assist,60000.0,"500"
+130,https://static.nextbike.net/app/biketypes/type/pl/130/h500.png,Handbike,"",other,1,human,,
+181,https://static.nextbike.net/app/biketypes/type/df/181/h500.png,e-CARGObike," - PEDALPOWER ""eHarry"" pl0072 Cargo
+ - BROSE middle motor
+ - Gearschift NUVINCI Enviolo N380
+ - hydraulic anti-lock disc brakes PP Cargo / Beg
+ - hub dynamo front wheel
+ - Light Hermanns 75 LUX Steady front and back
+ - fender front and back
+ - System box ""nextbike"" pl0052 60x80x50 cm
+ - Cover for PIRUU pl0065
+ - RFID Reader
+ - Framelock",cargo_bicycle,1,electric_assist,,
+30,https://static.nextbike.net/app/biketypes/type/cy/30/h500.png,Bike with child seat,"",bicycle,2,human,,
+112,https://static.nextbike.net/app/biketypes/type/cy/112/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+97,https://static.nextbike.net/app/biketypes/type/dp/97/h500.png,Cargo,"",cargo_bicycle,1,human,,
+98,https://static.nextbike.net/app/biketypes/type/dp/98/h500.png,Tandem,"",bicycle,2,human,,
+192,https://static.nextbike.net/app/biketypes/type/mr/192/h500.png,with Framelock,"SMARTbike 2.0 7 gears - with labeling - painted in RAL 9003 ""signal white""
+
+ - eco frame with Framelock covered
+ - ASF fork with DLS contact
+ - aluminum solar basket with ad panel
+ - 7 gears freewheel with Rollerbrake back and front
+ - RFID reader DLS
+",bicycle,1,human,,
+104,https://static.nextbike.net/app/biketypes/type/pm/104/h500.png,Cargo,"",cargo_bicycle,1,human,,
+238,https://static.nextbike.net/app/biketypes/type/bf/238/h500.png,e-Cargobike,"DOLLY BIKES ""e-Dolly"" MaxDrive
+
+ - BAFANG M400 250 W 80 Nm
+ - battery 600 Wh 43 V under bench
+ - Enviolo Cargo N380
+ - RYDE Big Bull rim 20""x1,75 / 26""x1,95
+ - stainless steel spokes G13
+ - hydraulic disc brake
+ - double leg stand
+ - PE box up to 80 kg
+ - total weight 225 kg",cargo_bicycle,1,electric_assist,,
+239,https://static.nextbike.net/app/biketypes/type/bf/239/h500.png,e-Cargobike,"DOLLY BIKES ""e-Dolly"" MaxDrive
+
+ - BAFANG M400 250 W 80 Nm
+ - battery 600 Wh 43 V under bench
+ - Enviolo Cargo N380
+ - RYDE Big Bull rim 20""x1,75 / 26""x1,95
+ - stainless steel spokes G13
+ - hydraulic disc brake
+ - double leg stand
+ - PE box up to 80 kg
+ - total weight 225 kg",cargo_bicycle,1,electric_assist,,"600"
+240,https://static.nextbike.net/app/biketypes/type/bf/240/h500.png,e-Cargobike,"DOLLY BIKES ""e-Dolly"" MaxDrive
+
+ - BAFANG M400 250 W 80 Nm
+ - battery 600 Wh 43 V under bench
+ - Enviolo Cargo N380
+ - RYDE Big Bull rim 20""x1,75 / 26""x1,95
+ - stainless steel spokes G13
+ - hydraulic disc brake
+ - double leg stand
+ - PE box up to 80 kg
+ - total weight 225 kg",cargo_bicycle,1,electric_assist,,
+241,https://static.nextbike.net/app/biketypes/type/bf/241/h500.png,e-Cargobike,"DOLLY BIKES ""e-Dolly"" MaxDrive
+
+ - BAFANG M400 250 W 80 Nm
+ - battery 600 Wh 43 V under bench
+ - Enviolo Cargo N380
+ - RYDE Big Bull rim 20""x1,75 / 26""x1,95
+ - stainless steel spokes G13
+ - hydraulic disc brake
+ - double leg stand
+ - PE box up to 80 kg
+ - total weight 225 kg",cargo_bicycle,1,electric_assist,,"600"
+242,https://static.nextbike.net/app/biketypes/type/bf/242/h500.png,e-Cargobike,"DOLLY BIKES ""e-Dolly"" MaxDrive
+
+ - BAFANG M400 250 W 80 Nm
+ - battery 600 Wh 43 V under bench
+ - Enviolo Cargo N380
+ - RYDE Big Bull rim 20""x1,75 / 26""x1,95
+ - stainless steel spokes G13
+ - hydraulic disc brake
+ - double leg stand
+ - PE box up to 80 kg
+ - total weight 225 kg",cargo_bicycle,1,electric_assist,,"600"
+85,https://static.nextbike.net/app/biketypes/type/gt/85/h500.png,ebike [električni bicikl],"",bicycle,1,electric_assist,60000.0,"500"
+161,https://static.nextbike.net/app/biketypes/type/gt/161/h500.png,Dječja sjedalica,ovo je bicikl s dječjom sjedalicom,bicycle,2,human,,
+162,https://static.nextbike.net/app/biketypes/type/gt/162/h500.png,CLASSICbike 2.0,"CLASSICbike 2.0 (inkl. Framelock)
+Upgraded CLASSICbike with Framelock",bicycle,1,human,,
+5,https://static.nextbike.net/app/biketypes/type/pr/5/h500.png,Classic,"- Shimano 3-Gang oder 7-Gang-Nabenschaltung
+- Nabendynamo
+- Korbausstattung
+- besonders bequem für große Menschen",bicycle,1,human,,
+83,https://static.nextbike.net/app/biketypes/type/pr/83/h500.png,Rower Trójkołowy,"",bicycle,1,human,,
+84,https://static.nextbike.net/app/biketypes/type/pr/84/h500.png,Tandem,"",bicycle,2,human,,
+154,https://static.nextbike.net/app/biketypes/type/pr/154/h500.png,Cargo,"",cargo_bicycle,1,human,,
+156,https://static.nextbike.net/app/biketypes/type/pr/156/h500.png,Rower z fotelikiem dziecięcym,"",bicycle,2,human,,
+157,https://static.nextbike.net/app/biketypes/type/pr/157/h500.png,Rowerek dziecięcy 6+,"",bicycle,1,human,,
+120,https://static.nextbike.net/app/biketypes/type/fg/120/h500.png,e-SMARTbike 2.0 (fixed battery),"",bicycle,1,electric_assist,60000.0,"500"
+204,https://static.nextbike.net/app/biketypes/type/fg/204/h500.png,E-Bike,"- e-eco B frame with FrameLock
+- aluminum basket with ad panel
+- e-CFC fork with charging contact and RFID chip
+- Rollerbrake back and front
+- RFID Reader 
+",bicycle,1,electric_assist,60000.0,"500"
+4,https://static.nextbike.net/app/biketypes/type/dl/4/h500.png,CLASSICbike,"- Tiefer Einstieg
+- Shimano 3-Gang oder 7-Gang-Nabenschaltung
+- Nabendynamo
+- Korbausstattung",bicycle,1,human,,
+29,https://static.nextbike.net/app/biketypes/type/dl/29/h500.png,CARGObike,"",cargo_bicycle,1,human,,
+143,https://static.nextbike.net/app/biketypes/type/dl/143/h500.png,e-SMARTbike 2.0 RFID,"- e-eco B frame with Framelock
+- aluminum basket with ad panel
+- e-CFC fork with charging contact and RFID chip
+- Rollerbrake back and front
+- RFID Reader 
+",bicycle,1,electric_assist,60000.0,"500"
+71,https://static.nextbike.net/app/biketypes/type/pv/71/h500.png,SMARTbike 2.0 (A) 2018,"",bicycle,1,human,,
+15,https://static.nextbike.net/app/biketypes/type/as/15/h500.png,with Fork lock,"- Comfort frame typ 21 with FVM
+- CFC fork with CSI lock
+- aluminum solar basket with lock cable and ad panel
+- rollerbrake back and front",bicycle,1,human,,
+14,https://static.nextbike.net/app/biketypes/type/ch/14/h500.png,Comfort 1 1/8 Zoll,"- Tiefer Einstieg
+- Shimano 3-Gang oder 7-Gang-Nabenschaltung
+- Nabendynamo
+- Korbausstattung
+- verstärktes Sattelrohr
+- verstärkter Vorbau",bicycle,1,human,,
+183,https://static.nextbike.net/app/biketypes/type/ch/183/h500.png,E-Bike,"- Frame model ""SWAP"" with FrameLock
+ - e-CFC DLS fork with charging contact and RFID chip
+ - aluminum basket with ad panel
+ - Rollerbrake back and front
+ - RFID Reader",bicycle,1,electric_assist,60000.0,"690"
+206,https://static.nextbike.net/app/biketypes/type/tl/206/h500.png,"3-rychlostní SMARTbike 2.0.","3-rychlostní kola s podporou partnera",bicycle,1,human,,
+199,https://static.nextbike.net/app/biketypes/type/tm/199/h500.png,"3-rychlostní SMARTbike","3-rychlostní kola bez podpory města",bicycle,1,human,,
+200,https://static.nextbike.net/app/biketypes/type/tm/200/h500.png,"8-rychlostní SMARTbike",Nová osmirychlostní kola bez podpory města,bicycle,1,human,,
+196,https://static.nextbike.net/app/biketypes/type/da/196/h500.png,with Framelock,"SMARTbike 2.0 with labeling
+
+- eco frame with coverd Framelock +
+ - analog fork with forkadapter and RFID chip
+ - aluminum solar basket with ad panel
+ - freewheel with rollerbrake back and front",bicycle,1,human,,
+150,https://static.nextbike.net/app/biketypes/type/dl/150/h500.png,with Framelock,"",bicycle,1,human,,
+198,https://static.nextbike.net/app/biketypes/type/ts/198/h500.png,"3-rychlostní SMARTbike 2.0.","3-rychlostní kola s podporou města",bicycle,1,human,,

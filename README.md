@@ -31,8 +31,10 @@
 │   ├── bikes.csv
 │   ├── …
 ├── etl/                      # Code used to process the raw data - just informational
-│   ├── data_pipeline.py         # Data decompression, explosion, splitting, upload
-│   └── schema_definition.sql    # Data inserts, upserts, trip extraction handled in-database (PostgreSQL)
+│   ├── data_pipeline.py      # Data decompression, explosion, splitting, upload
+│   ├── utils.py              # little helper functions for PostgreSQL upload
+│   ├── config.template.py    # config file for database credentials and paths
+│   └── schema_definition.sql # Data inserts, upserts, trip extraction handled in-database (PostgreSQL)
 └── README.md                 # you are here
 ```
 

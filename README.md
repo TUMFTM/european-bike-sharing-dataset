@@ -1,6 +1,6 @@
 # “Data-Driven Insights into (E-)Bike-Sharing: Mining a Large-Scale Dataset on Usage and Urban Characteristics - Descriptive Analysis and Performance Modeling” (supplementary dataset)
 
-> **Scope** – This repository accompanies the article (accepted for publication in Springer Transportation, 2025) and provides the full relational data export (43 Mio km, 2.3 GiB compressed) required to reproduce all analyses, together with 1 000‑row excerpts for quick exploration.
+> **Scope** – This repository accompanies the [article in Springer Transportation](https://link.springer.com/article/10.1007/s11116-025-10661-2) (DOI 10.1007/s11116-025-10661-2, 2025) and provides the full relational data export (43 Mio km, 2.3 GiB compressed) required to reproduce all analyses, together with 1000‑row excerpts for quick exploration.
 
 ## Authors
 
